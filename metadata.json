@@ -1,0 +1,5 @@
+{
+  "name": "Non-Receipt Goods Form Generator  ",
+  "description": "An editable form to generate Non-Receipt of Goods Disclaimer PDFs based on a template image.",
+  "requestFramePermissions": []
+}
